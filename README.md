@@ -1,6 +1,6 @@
 # roshambo
-# The following are the resources used for the following solution.
-1. https://en.wikipedia.org/wiki/Rock_paper_scissors
+# The following are the resources used for the solution.
+# 1. https://en.wikipedia.org/wiki/Rock_paper_scissors
 2. https://www.geeksforgeeks.org/loops-in-python/
 3. https://www.youtube.com/watch?v=ND4fd6yScBM
 4. https://www.youtube.com/watch?v=uoVUOTPL9Rw&list=PLxuUHF3OiqfWAITD4gPUHZ1GcYRqmyF7P&index=26
